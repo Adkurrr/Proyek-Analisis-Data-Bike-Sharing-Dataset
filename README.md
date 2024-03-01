@@ -2,7 +2,7 @@
 Proyek akhir dari Dicoding dengan kursus "Belajar Analisis Data Dengan Python" bertujuan menganalisis dan membuat dashboard dari dataset bike sharing dataset
 
 ## 1. Siklus Kerja Project
-   1. Data Wrangling:
+   1. Data Wrangling
    2. Exploratory Data Analysis (EDA)
    3. Data Visualization
    4. Dashboard
